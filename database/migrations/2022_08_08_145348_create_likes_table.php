@@ -6,7 +6,7 @@ use Illuminate\Support\Facades\Schema;
 //kreiranje lajkova
 class CreateLikesTable extends Migration
 {
-    /**
+        /**
      * Run the migrations.
      *
      * @return void
